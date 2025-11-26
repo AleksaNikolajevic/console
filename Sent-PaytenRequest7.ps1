@@ -3,7 +3,7 @@
 
 # --- CONFIG ---
 $ComponentName = 'com.example.myapplication/.Kupovina'
-$JsonFile      = 'C:\payten\preauth_completion.json'
+$JsonFile      = 'C:\Users\Aleksa\Desktop\preauth_completion.json'
 
 # --- VALIDATION ---
 if (-not (Test-Path $JsonFile)) {

@@ -3,7 +3,7 @@
 
 # --- CONFIG ---
 $ComponentName = 'com.example.myapplication/.AdbTriggerActivity'
-$JsonFile      = 'C:\payten\preauth_completion.json'
+$JsonFile      = 'C:\Users\Aleksa\Desktop\preauth_completion.json'
 
 # --- VALIDATION ---
 if (-not (Test-Path $JsonFile)) {
